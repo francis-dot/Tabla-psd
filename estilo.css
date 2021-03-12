@@ -1,0 +1,168 @@
+@charset "utf-8";
+#encabezado #encabeza {
+    margin-right: 10px;
+    width: 100%;
+}
+body p {
+    text-align: justify;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#izquierda {
+}
+#derecha {
+}
+#footer {
+    margin-top: 10px;
+    padding-top: 10px;
+}
+#izquierda h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+#derecha h2 {
+    text-align: center;
+    font-size: xx-large;
+}
+#historia   {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+}
+#premios {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+}
+#derdos h3 {
+    text-align: center;
+    font-size: xx-large;
+}
+#cultura {
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+}
+#universo {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+}
+#menu {
+    margin-left: 130px;
+}
+#div3 {
+    width: 40%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background-color: #B8B7B7;
+    float: right;
+}
+#div4 {
+    width: 550%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+    background-color: #CCC9C9;
+}
+#div4 h4 {
+    font-size: xx-large;
+    text-align: center;
+}
+#div3 h3 {
+    text-align: center;
+    font-size: xx-large;
+}
+#div5 {
+    background-color: #424141;
+    float: none;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    margin-top: 1500px;
+}
+#menu {
+    float: right;
+}
+#div4 p #univ {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+#div3 p #cultural {
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+#logo {
+    color: #FBF2F2;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: none;
+    float: right;
+    background-color: #010101;
+}
+#logo img {
+    clear: none;
+    float: none;
+
+}
+#footer {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #747171;
+}
+#footer #salida {
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#footer #salida #footpa {
+    color: #FBFBFB;
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    text-shadow: 2px 7px 5px #C417FC;
+    float: none;
+}
+#salida a #Image13 {
+    float: left;
+}
+body h1 {
+    width: 100%;
+    text-align: center;
+    font-size: xx-large;
+    color: #FFF500;
+}
+#izquierda #histo {
+    color: #000000;
+}
